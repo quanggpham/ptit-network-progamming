@@ -5,7 +5,7 @@ import java.util.*;
 import java.io.*;
 import java.net.*;
 
-public class TCP_Byte_tqp9engQ {
+public class TCP_ByteStream_tqp9engQ {
     public static boolean isPrime(long n)
     {
         for (int i = 2; i <= Math.sqrt(n); i++)

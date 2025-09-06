@@ -5,7 +5,7 @@ import java.util.*;
 import java.io.*;
 import java.net.*;
 
-public class TCP_Byte_Cn4KYodg {
+public class TCP_ByteStream_Cn4KYodg {
     public static void main(String[] args) throws Exception{
         Socket socket = new Socket("203.162.10.109", 2206);
         socket.setSoTimeout(5000);
